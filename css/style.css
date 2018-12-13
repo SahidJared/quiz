@@ -1,7 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
-    color: #0f65ef;
+    color: white;
     font-weight: bold;
     font-size:15px;
 }
@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: orange;
 }
 
 .siliconValley {
@@ -29,12 +29,12 @@ body {
 }
 
 a {
-    color: #0f65ef;
+    color: purple;
     font-weight: bold;
 }
 
 #tom {
-    color: grey;
+    color: blue;
 }
 
 .result {
@@ -44,7 +44,7 @@ a {
 button {
     margin-top: 10px;
     color: white;
-    background-color: red;
+    background-color: Purple;
     font-size: 40px;
     border-radius: 25px;
     border:3px groove black ;
